@@ -10,6 +10,7 @@ Basil and Sadhana like how you created your earthquake map with two different ma
 Resources: 
 https://github.com/cherylberger/Mapping_earthquakes/blob/main/Earthquake_Challenge/major_eq_starter_logic.js
 https://github.com/cherylberger/Mapping_earthquakes/blob/main/Earthquake_Challenge/tectonic_plate_starter_logic.js
+https://github.com/cherylberger/Mapping_earthquakes/blob/main/Earthquake_Challenge/static/css/style.css
 
 
 #### Modify the starter code provided to perform the following actions: 
