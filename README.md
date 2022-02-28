@@ -3,8 +3,13 @@
 ### Cheryl Berger
 
 ## Project Overview: 
+Basil and Sadhana like how you created your earthquake map with two different maps and the earthquake overlay. Now, Basil and Sadhana would like to see the earthquake data in relation to the tectonic plates’ location on the earth, and they would like to see all the earthquakes with a magnitude greater than 4.5 on the map, and they would like to see the data on a third map.
 
 ## Results:
+
+Resources: 
+
+
 
 #### Modify the starter code provided to perform the following actions: 
 ![image](https://user-images.githubusercontent.com/94234511/155920313-dc5224dd-d412-4435-986a-a59de16a849f.png)
@@ -66,15 +71,15 @@
 
 </html>
 
-### Deliverable 1
+### Deliverable 1 Add Tectonic Plate Data
 ![Tectonic Plates](https://user-images.githubusercontent.com/94234511/155921052-d3b086bc-51d7-49ed-8e64-8aec90f51e3c.png)
 
 
-### Deliverable 2:
+### Deliverable 2:  Add Major Earthquake Data
 ![Earthquakes_satellite](https://user-images.githubusercontent.com/94234511/155921072-768c7bc2-ec23-4d8c-8d86-64acb3b5b0f9.png)
 
 
-### Deliverable 3:
+### Deliverable 3: Add an Additional Map
 ![Earthquakes_dark](https://user-images.githubusercontent.com/94234511/155921092-616f0c68-b5bc-4a5a-9a42-dd224b49c539.png)
 
 
