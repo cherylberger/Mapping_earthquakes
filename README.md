@@ -8,7 +8,7 @@ Basil and Sadhana like how you created your earthquake map with two different ma
 ## Results:
 
 Resources: 
-
+https://github.com/cherylberger/Mapping_earthquakes/blob/main/Earthquake_Challenge/major_eq_starter_logic.js
 
 
 #### Modify the starter code provided to perform the following actions: 
