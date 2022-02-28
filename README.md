@@ -26,8 +26,18 @@ https://github.com/cherylberger/Mapping_earthquakes/blob/main/Earthquake_Challen
 
 #### Add API key to the config.js file and add the config.js file to the .gitignore file in the GitHub repo to protect the security of the API key
 
+1)  Register for a MapBox Acct and create an API key.
 
-#### The code for the challenge_logic.js is detailed below 
+2) Create a new file in VS Code and name is config and save as JavaScript.  
+
+3) Add the following code to the config. file.  
+// API key
+const API_KEY = "";
+
+4) Copy and Paste the API key from MapBox between the "" in the API key variable. 
+
+#### The code for the challenge_logic.js (https://github.com/cherylberger/Mapping_earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js) is detailed below as edited in Visual Studio Code: 
+
 ![image](https://user-images.githubusercontent.com/94234511/155921298-22c53a7f-8ba6-4b40-94f7-6c8eb94a5186.png)
 
 ![image](https://user-images.githubusercontent.com/94234511/155921371-29cb828f-9a48-4280-8414-9f7c68a4ce58.png)
