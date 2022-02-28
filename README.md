@@ -85,6 +85,8 @@ const API_KEY = "";
 
 </html>
 
+![image](https://user-images.githubusercontent.com/94234511/155922879-bcbf2b40-307f-4e54-b121-f1ca723e4b58.png)
+
 ### Deliverable 1 Add Tectonic Plate Data
 ![Tectonic Plates](https://user-images.githubusercontent.com/94234511/155921052-d3b086bc-51d7-49ed-8e64-8aec90f51e3c.png)
 
