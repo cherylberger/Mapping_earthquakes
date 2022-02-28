@@ -37,7 +37,8 @@ https://github.com/cherylberger/Mapping_earthquakes/blob/main/Earthquake_Challen
 ![image](https://user-images.githubusercontent.com/94234511/155921516-8d340b7f-ba0e-4a26-9b99-c1aae5386021.png)
 
 
-#### The code for the index.html file that can be used to open the map in a webbrowser on localhost:8000
+#### The code for the index.html file (https://github.com/cherylberger/Mapping_earthquakes/blob/main/Earthquake_Challenge/index.html) that can be used to open the map in a webbrowser on localhost:8000
+
 <!DOCTYPE html>
 <html lang="en">
 
