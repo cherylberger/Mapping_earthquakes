@@ -88,15 +88,16 @@ const API_KEY = "";
 ![image](https://user-images.githubusercontent.com/94234511/155922879-bcbf2b40-307f-4e54-b121-f1ca723e4b58.png)
 
 ### Deliverable 1 Add Tectonic Plate Data
+The tectonic plates are added to the map showing all earthquakes.
 ![Tectonic Plates](https://user-images.githubusercontent.com/94234511/155921052-d3b086bc-51d7-49ed-8e64-8aec90f51e3c.png)
 
 
 ### Deliverable 2:  Add Major Earthquake Data
-![Earthquakes_satellite](https://user-images.githubusercontent.com/94234511/155921072-768c7bc2-ec23-4d8c-8d86-64acb3b5b0f9.png)
+After calling the data for earthquakes greater than mag 4.5, we add the functions to change the style of the map features to reflect mag >5 and >6 and 
 
 
 ### Deliverable 3: Add an Additional Map
-![Earthquakes_dark](https://user-images.githubusercontent.com/94234511/155921092-616f0c68-b5bc-4a5a-9a42-dd224b49c539.png)
+A dark map was added to the code with the sattelite view. The data for either all earthquakes or both the all earthquakes or major earthquakes layers can be applied.  The dark map view makes the colors standout for slightly improved visualization over the street or satellite views. 
 
 
 
