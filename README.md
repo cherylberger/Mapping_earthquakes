@@ -21,7 +21,7 @@ https://github.com/cherylberger/Mapping_earthquakes/blob/main/Earthquake_Challen
 
 ![image](https://user-images.githubusercontent.com/94234511/155920562-f2b38cdc-46fb-41f5-abb9-df8ebf6a053d.png)
 
-![image](https://user-images.githubusercontent.com/94234511/155920602-4390dfd0-3004-44f8-97e2-797aeed15574.png)
+![image](https://user-images.githubusercontent.com/94234511/156896864-ee40283f-556e-485b-a85f-8c61a83f310c.png)
 
 
 #### Add API key to the config.js file and add the config.js file to the .gitignore file in the GitHub repo to protect the security of the API key
