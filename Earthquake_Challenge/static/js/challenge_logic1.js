@@ -137,7 +137,7 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geoj
           return "#ea2c2c";
           }
         if (magnitude > 5) {
-          return "#ee9c00";
+          return "#ea822c";
           }
           return "#98ee00";
         }  
@@ -160,7 +160,7 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geoj
       //Add the style for each cirleMarker usign the sytleInfo function
       style:styleInfo2,
       onEachFeature: function (feature, layer) {
-        layer.bindPopup("coordinates: " + feature.properties.mag + "<br>Location: " + feature.properties.place);
+        layer.bindPopup("Magnitude: " + feature.properties.mag + "<br>Location: " + feature.properties.place);
       }
     }).addTo(majorEQ);
     // 8. Add the major earthquakes layer to the map.
