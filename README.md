@@ -94,10 +94,10 @@ The tectonic plates are added to the map showing all earthquakes.
 
 ### Deliverable 2:  Add Major Earthquake Data
 After calling the data for earthquakes greater than mag 4.5, we add the functions to change the style of the map features to reflect mag >5 as orange and >6 in red. 
-![Major Earthquakes_streetview](https://user-images.githubusercontent.com/94234511/156896511-a494ba4b-aaf0-48cf-9180-81780d9de49e.png)
+![image](https://user-images.githubusercontent.com/94234511/156896660-c1a6dfce-7837-43a7-85d3-c7bf383b870a.png)
 
 If all layers are present the map will look as follows on streetview. 
-![image](https://user-images.githubusercontent.com/94234511/156896438-c221bc9a-e2ac-4cb7-82da-4759d203d976.png)
+![Major Earthquakes_streetview](https://user-images.githubusercontent.com/94234511/156896511-a494ba4b-aaf0-48cf-9180-81780d9de49e.png)
 
 ### Deliverable 3: Add an Additional Map
 A dark map was added to the code with the sattelite view. The data for either all earthquakes or both the all earthquakes or major earthquakes layers can be applied.  The dark map view makes the colors standout for slightly improved visualization over the street or satellite views. 
