@@ -36,16 +36,15 @@ const API_KEY = "";
 
 4) Copy and Paste the API key from MapBox between the "" in the API key variable. 
 
-#### The code for the challenge_logic.js https://github.com/cherylberger/Mapping_earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic1.js is detailed below as edited in Visual Studio Code: 
+#### The code for the challenge_logic1.js https://github.com/cherylberger/Mapping_earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic1.js is detailed below as edited in Visual Studio Code: 
 
 ![image](https://user-images.githubusercontent.com/94234511/155921298-22c53a7f-8ba6-4b40-94f7-6c8eb94a5186.png)
 
 ![image](https://user-images.githubusercontent.com/94234511/155921371-29cb828f-9a48-4280-8414-9f7c68a4ce58.png)
 
-![image](https://user-images.githubusercontent.com/94234511/155921471-7c1a0049-53af-4dd7-b64d-927e980556e5.png)
+![image](https://user-images.githubusercontent.com/94234511/156896791-1c67a1f0-233b-4f07-942a-7bd1ab4fdf8b.png)
 
-![image](https://user-images.githubusercontent.com/94234511/155921516-8d340b7f-ba0e-4a26-9b99-c1aae5386021.png)
-
+![image](https://user-images.githubusercontent.com/94234511/156896808-1c46f1d3-50d8-4c93-8cd2-97c3193d211c.png)
 
 #### The code for the index.html file (https://github.com/cherylberger/Mapping_earthquakes/blob/main/Earthquake_Challenge/index.html) that can be used to open the map in a webbrowser on localhost:8000
 
