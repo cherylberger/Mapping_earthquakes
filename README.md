@@ -36,7 +36,7 @@ const API_KEY = "";
 
 4) Copy and Paste the API key from MapBox between the "" in the API key variable. 
 
-#### The code for the challenge_logic.js (https://github.com/cherylberger/Mapping_earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js) is detailed below as edited in Visual Studio Code: 
+#### The code for the challenge_logic.js https://github.com/cherylberger/Mapping_earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic1.js is detailed below as edited in Visual Studio Code: 
 
 ![image](https://user-images.githubusercontent.com/94234511/155921298-22c53a7f-8ba6-4b40-94f7-6c8eb94a5186.png)
 
